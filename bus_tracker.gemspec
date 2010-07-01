@@ -10,7 +10,7 @@ Gem::Specification.new do |s|
   s.email       = ["mark@markconnell.co.uk"]
   s.homepage    = "http://github.com/mconnell/bus_tracker"
   s.summary     = "Access Edinburgh's bus tracker service via ruby."
-  s.description = "A ruby interface for access service and bus stop information provided by the BusTracker service for Edinburgh's public transport."
+  s.description = "A ruby interface for accessing service and bus stop information provided by the BusTracker service for Edinburgh's public transport."
 
   s.required_rubygems_version = ">= 1.3.6"
 
