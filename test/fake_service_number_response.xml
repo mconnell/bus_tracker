@@ -1,0 +1,192 @@
+<?xml version="1.0" encoding="iso-8859-1"?>
+<map xmlns="http://www.w3.org/1999/xhtml">
+  <markers>
+    <busStop>
+      <sms xmlns="http://www.w3.org/1999/xhtml">36232545</sms>
+      <nom xmlns="http://www.w3.org/1999/xhtml">Castle Street</nom>
+      <x xmlns="http://www.w3.org/1999/xhtml">55.951084136963</x>
+      <y xmlns="http://www.w3.org/1999/xhtml">-3.2017660140991</y>
+      <services xmlns="http://www.w3.org/1999/xhtml">
+        <service>
+          <mnemo>1</mnemo>
+          <urlpdf>http://lothianbuses.com/images/stories/pdf_downloads/service_timetables/r1.pdf</urlpdf>
+        </service>
+        <service>
+          <mnemo>3</mnemo>
+          <urlpdf>http://lothianbuses.com/images/stories/pdf_downloads/service_timetables/r3.pdf</urlpdf>
+        </service>
+        <service>
+          <mnemo>3A</mnemo>
+          <urlpdf>http://lothianbuses.com/images/stories/pdf_downloads/service_timetables/r3.pdf</urlpdf>
+        </service>
+        <service>
+          <mnemo>4</mnemo>
+          <urlpdf>http://lothianbuses.com/images/stories/pdf_downloads/service_timetables/r4.pdf</urlpdf>
+        </service>
+        <service>
+          <mnemo>22</mnemo>
+          <urlpdf>http://lothianbuses.com/images/stories/pdf_downloads/service_timetables/r22.pdf</urlpdf>
+        </service>
+        <service>
+          <mnemo>25</mnemo>
+          <urlpdf>http://lothianbuses.com/images/stories/pdf_downloads/service_timetables/r25.pdf</urlpdf>
+        </service>
+        <service>
+          <mnemo>X25</mnemo>
+          <urlpdf>http://lothianbuses.com/images/stories/pdf_downloads/service_timetables/rx25.pdf</urlpdf>
+        </service>
+        <service>
+          <mnemo>30</mnemo>
+          <urlpdf>http://lothianbuses.com/images/stories/pdf_downloads/service_timetables/r30.pdf</urlpdf>
+        </service>
+        <service><mnemo>33</mnemo>
+          <urlpdf>http://lothianbuses.com/images/stories/pdf_downloads/service_timetables/r33.pdf</urlpdf>
+          </service>
+        <service>
+          <mnemo>34</mnemo>
+          <urlpdf>http://lothianbuses.com/images/stories/pdf_downloads/service_timetables/r34.pdf</urlpdf>
+        </service>
+        <service>
+          <mnemo>44</mnemo>
+          <urlpdf>http://lothianbuses.com/images/stories/pdf_downloads/service_timetables/r44.pdf</urlpdf>
+        </service>
+        <service>
+          <mnemo>44A</mnemo>
+          <urlpdf>http://lothianbuses.com/images/stories/pdf_downloads/service_timetables/r44.pdf</urlpdf>
+        </service>
+        <service>
+          <mnemo>N22</mnemo>
+          <urlpdf>http://lothianbuses.com/images/stories/pdf_downloads/service_timetables/r22.pdf</urlpdf>
+        </service>
+        <service>
+          <mnemo>N25</mnemo>
+          <urlpdf>http://lothianbuses.com/images/stories/pdf_downloads/service_timetables/r25.pdf</urlpdf>
+        </service>
+        <service>
+          <mnemo>N30</mnemo>
+          <urlpdf>http://lothianbuses.com/images/stories/pdf_downloads/service_timetables/r30.pdf</urlpdf>
+        </service>
+        <service>
+          <mnemo>N44</mnemo>
+          <urlpdf>http://lothianbuses.com/images/stories/pdf_downloads/service_timetables/r44.pdf</urlpdf>
+        </service>
+      </services>
+    </busStop>
+    <busStop>
+      <sms xmlns="http://www.w3.org/1999/xhtml">36243853</sms>
+      <nom xmlns="http://www.w3.org/1999/xhtml">Fort Kinnaird</nom>
+      <x xmlns="http://www.w3.org/1999/xhtml">55.933849334717</x>
+      <y xmlns="http://www.w3.org/1999/xhtml">-3.0996959209442</y>
+      <services xmlns="http://www.w3.org/1999/xhtml">
+        <service>
+          <mnemo>30</mnemo>
+          <urlpdf>http://lothianbuses.com/images/stories/pdf_downloads/service_timetables/r30.pdf</urlpdf>
+        </service>
+        <service>
+          <mnemo>N30</mnemo>
+          <urlpdf>http://lothianbuses.com/images/stories/pdf_downloads/service_timetables/r30.pdf</urlpdf>
+        </service>
+      </services>
+    </busStop>
+    <busStop>
+      <sms xmlns="http://www.w3.org/1999/xhtml">36243867</sms>
+      <nom xmlns="http://www.w3.org/1999/xhtml">Royal Infirmary</nom>
+      <x xmlns="http://www.w3.org/1999/xhtml">55.921215057373</x>
+      <y xmlns="http://www.w3.org/1999/xhtml">-3.1364960670471</y>
+      <services xmlns="http://www.w3.org/1999/xhtml">
+        <service>
+          <mnemo>3</mnemo>
+          <urlpdf>http://lothianbuses.com/images/stories/pdf_downloads/service_timetables/r3.pdf</urlpdf>
+        </service>
+        <service>
+          <mnemo>18</mnemo>
+          <urlpdf>http://lothianbuses.com/images/stories/pdf_downloads/service_timetables/r18.pdf</urlpdf>
+        </service>
+        <service>
+          <mnemo>21</mnemo>
+          <urlpdf>http://lothianbuses.com/images/stories/pdf_downloads/service_timetables/r21.pdf</urlpdf>
+        </service>
+        <service>
+          <mnemo>30</mnemo>
+          <urlpdf>http://lothianbuses.com/images/stories/pdf_downloads/service_timetables/r30.pdf</urlpdf>
+        </service>
+        <service>
+          <mnemo>38</mnemo>
+          <urlpdf>http://lothianbuses.com/images/stories/pdf_downloads/service_timetables/r38.pdf</urlpdf>
+        </service>
+      </services>
+    </busStop>
+    <busStop>
+      <sms xmlns="http://www.w3.org/1999/xhtml">36243979</sms>
+      <nom xmlns="http://www.w3.org/1999/xhtml">Fort Kinnaird</nom>
+      <x xmlns="http://www.w3.org/1999/xhtml">55.934623718262</x>
+      <y xmlns="http://www.w3.org/1999/xhtml">-3.1034960746765</y>
+      <services xmlns="http://www.w3.org/1999/xhtml">
+        <service>
+          <mnemo>30</mnemo>
+          <urlpdf>http://lothianbuses.com/images/stories/pdf_downloads/service_timetables/r30.pdf</urlpdf>
+        </service>
+        <service>
+          <mnemo>N30</mnemo>
+          <urlpdf>http://lothianbuses.com/images/stories/pdf_downloads/service_timetables/r30.pdf</urlpdf>
+        </service>
+      </services>
+    </busStop>
+    <busStop>
+      <sms xmlns="http://www.w3.org/1999/xhtml">36245253</sms>
+      <nom xmlns="http://www.w3.org/1999/xhtml">Fort Kinnaird</nom>
+      <x xmlns="http://www.w3.org/1999/xhtml">55.934993743896</x>
+      <y xmlns="http://www.w3.org/1999/xhtml">-3.1023859977722</y>
+      <services xmlns="http://www.w3.org/1999/xhtml">
+        <service>
+          <mnemo>30</mnemo>
+          <urlpdf>http://lothianbuses.com/images/stories/pdf_downloads/service_timetables/r30.pdf</urlpdf>
+        </service>
+        <service>
+          <mnemo>N30</mnemo>
+          <urlpdf>http://lothianbuses.com/images/stories/pdf_downloads/service_timetables/r30.pdf</urlpdf>
+        </service>
+      </services>
+    </busStop>
+    <busStop>
+      <sms xmlns="http://www.w3.org/1999/xhtml">58234835</sms>
+      <nom xmlns="http://www.w3.org/1999/xhtml">Queen Margaret U</nom>
+      <x xmlns="http://www.w3.org/1999/xhtml">55.93285369873</x>
+      <y xmlns="http://www.w3.org/1999/xhtml">-3.074089050293</y>
+      <services xmlns="http://www.w3.org/1999/xhtml">
+        <service>
+          <mnemo>30</mnemo>
+          <urlpdf>http://lothianbuses.com/images/stories/pdf_downloads/service_timetables/r30.pdf</urlpdf>
+        </service>
+        <service>
+          <mnemo>44</mnemo>
+          <urlpdf>http://lothianbuses.com/images/stories/pdf_downloads/service_timetables/r44.pdf</urlpdf>
+        </service>
+        <service>
+          <mnemo>44A</mnemo>
+          <urlpdf>http://lothianbuses.com/images/stories/pdf_downloads/service_timetables/r44.pdf</urlpdf>
+        </service>
+        <service>
+          <mnemo>N30</mnemo>
+          <urlpdf>http://lothianbuses.com/images/stories/pdf_downloads/service_timetables/r30.pdf</urlpdf>
+        </service>
+      </services>
+    </busStop>
+    <busStop>
+      <sms xmlns="http://www.w3.org/1999/xhtml">58234836</sms>
+      <nom xmlns="http://www.w3.org/1999/xhtml">Queen Margaret U</nom>
+      <x xmlns="http://www.w3.org/1999/xhtml">55.933025360107</x>
+      <y xmlns="http://www.w3.org/1999/xhtml">-3.0741419792175</y>
+      <services xmlns="http://www.w3.org/1999/xhtml">
+        <service>
+          <mnemo>30</mnemo>
+          <urlpdf>http://lothianbuses.com/images/stories/pdf_downloads/service_timetables/r30.pdf</urlpdf>
+        </service>
+        <service>
+          <mnemo>N30</mnemo>
+          <urlpdf>http://lothianbuses.com/images/stories/pdf_downloads/service_timetables/r30.pdf</urlpdf>
+        </service>
+      </services>
+    </busStop>
+  </markers>
+</map>
