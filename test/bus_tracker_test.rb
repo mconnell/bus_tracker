@@ -9,6 +9,7 @@ class BusTrackerTest < ActiveSupport::TestCase
     testee.bus_stops.each do |bus_stop|
       assert(bus_stop.is_a?(BusTracker::BusStop), "bus stop isn't a BusTracler::BusStop instance")
       assert(bus_stop.service_numbers.include?(testee.number), "Service numbers do not include #{testee.number}")
+      assert_equal(bus_stop.name.class, String)
     end
   end
 

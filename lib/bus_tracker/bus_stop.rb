@@ -1,6 +1,6 @@
 module BusTracker
   class BusStop
-    attr_accessor :latitude, :longitude, :service_numbers
+    attr_accessor :name, :latitude, :longitude, :service_numbers
 
     def initialize(options = {})
       self.service_numbers = []
