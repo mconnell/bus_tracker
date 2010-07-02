@@ -14,10 +14,14 @@ After fetching a service, you can also pull up information about each stop for t
 
     bus_stop = service.bus_stops.first
     
+    # Bus stop code
+    bus_stop.code
+    > '36232545'
+    
     # Name of the stop (typically the street name or nearby street name)
     bus_stop.name
      > 'Castle Street'
-    
+
     # Lat/Lon for geocoding:
     bus_stop.latitude
      > "55.951084136963"
