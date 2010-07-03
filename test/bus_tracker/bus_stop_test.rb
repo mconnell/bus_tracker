@@ -35,4 +35,14 @@ class BusTracker::BusStopTest < ActiveSupport::TestCase
       @testee.service_numbers
     )
   end
+
+  test "ability to reload the departures for a stop" do
+    @testee.departures = []
+    @testee.fetch_departures!
+
+    assert(!@testee.departures.empty?)
+    @testee.departures.each do |departure|
+      assert_equal(BusTracker::Departure, departure.class)
+    end
+  end
 end

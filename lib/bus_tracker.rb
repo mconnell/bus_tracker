@@ -34,15 +34,8 @@ module BusTracker
   end
 
   def self.bus_stop(code)
-    uri  = "#{BASE_URI}getBusStopDepartures.php?refreshCount=0&clientType=b&busStopCode=#{code}"
-    uri += "&busStopDay=0&busStopService=0&numberOfPassage=4&busStopTime=&busStopDestination=0"
-
     bus_stop = BusTracker::BusStop.new(:code => code)
-    document = Nokogiri::HTML(open(uri))
-    document.xpath('//pre').each do |departure|
-      bus_stop.departures << BusTracker::Departure.new(departure.content)
-    end
-
+    bus_stop.fetch_departures!
     bus_stop
   end
 
