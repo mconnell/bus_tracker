@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="iso-8859-1"?>
+<div xmlns="http://www.w3.org/1999/xhtml" id="displayDepartures"><p class="displayService" id="range1"><a href="javascript:displayPdf(&quot;http://lothianbuses.com/images/stories/pdf_downloads/service_timetables/r30.pdf&quot;)">58234836 Queen Margaret U / Musselburgh - Clovenstone</a></p>
+  <pre class="displayHorairePremier" id="range2">30    MUSSELBURGH      <span class="handicap">  </span>DUE   </pre>
+  <pre class="displayHoraire" id="range3">30    MUSSELBURGH      <span class="handicap">  </span>14    </pre>
+  <pre class="displayHoraire" id="range4">30    MUSSELBURGH      <span class="handicap">  </span>25    </pre>
+  <pre class="displayHoraireDernier" id="range5">30    MUSSELBURGH      <span class="handicap">  </span>29    </pre>
+</div>

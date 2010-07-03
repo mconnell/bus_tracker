@@ -11,4 +11,13 @@ class BusTrackerTest < ActiveSupport::TestCase
     end
   end
 
+  test "requesting a bus stop should return a collection of the bus stop's departures" do
+    testee = BusTracker.bus_stop('36232545')
+
+    testee.departures.each do |departure|
+      assert_equal(BusTracker::Departure, departure.class)
+      assert_equal('30', departure.service_number)
+    end
+  end
+
 end
