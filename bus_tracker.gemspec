@@ -16,6 +16,7 @@ Gem::Specification.new do |s|
 
   s.add_dependency "activesupport"
   s.add_dependency "nokogiri", ">=1.4.1"
+  s.add_development_dependency "fakeweb"
 
   s.files        = Dir['MIT-LICENSE', 'README.md', 'lib/**/*']
   s.require_path = 'lib'
