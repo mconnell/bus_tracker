@@ -4,6 +4,10 @@ Edinburgh BusTracker via Ruby.
 
 An attempt at providing an object-based interface for interacting with the BusTracker data.
 
+# Installation
+
+    gem install bus_tracker
+
 # Examples
 
 ## Service Information
