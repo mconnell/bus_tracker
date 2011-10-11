@@ -4,7 +4,7 @@ $:.unshift lib unless $:.include?(lib)
 
 Gem::Specification.new do |s|
   s.name        = "bus_tracker"
-  s.version     = '1.0.0'
+  s.version     = '1.1.0'
   s.platform    = Gem::Platform::RUBY
   s.authors     = ["Mark Connell"]
   s.email       = ["mark@markconnell.co.uk"]

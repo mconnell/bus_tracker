@@ -7,7 +7,7 @@ require 'bus_tracker/departure'
 
 module BusTracker
 
-  BASE_URI = 'http://mybustracker.co.uk/'
+  BASE_URI = 'http://old.mybustracker.co.uk/'
 
   def self.service(number)
     service = BusTracker::Service.new(number)
